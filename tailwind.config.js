@@ -9,7 +9,9 @@ export default {
       },
       colors: {
         lightGray: '#9F9F9F',
-        lighterGray: '#D9D9D9'
+        lighterGray: '#D9D9D9',
+        darkGray: '#898989',
+        cream: '#FAF3EA'
       }
     },
   },
