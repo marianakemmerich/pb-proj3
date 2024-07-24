@@ -11,7 +11,13 @@ export default {
         lightGray: '#9F9F9F',
         lighterGray: '#D9D9D9',
         darkGray: '#898989',
-        cream: '#FAF3EA'
+        graphite: '#333333',
+        lighterGraphite: '#616161',
+        lightGraphite: '#666666',
+        darkGraphite: '#3A3A3A',
+        cream: '#FAF3EA',
+        lightYellow: '#FFF3E3',
+        golden: '#B88E2F'
       }
     },
   },
