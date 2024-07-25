@@ -3,20 +3,20 @@
       {
         "id": 1,
         "sku": "531871",
-        "title": "Sofá-Cama 2 Lugares Casal Génova Azul",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Génova",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 3199.99,
         "salePrice": 1844.98,
         "discountPercentage": 0.42,
         "new": true,
         "description": {
-          "short": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente?",
-          "long": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente? Seja na sala de estar, no escritório ou no quarto, ele se adapta muito bem às suas necessidades e ainda dá um toque charmoso para o ambiente. A estrutura aconchegante combinada com os pés palito é ótima para você se sentar, assistir à televisão, ler um livro ou espairecer no dia a dia. Mas se precisar tirar um cochilo ou se for receber visitas em casa, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Show, né? Ah, ele ainda tem essa linda cor azul para ser o toque final da decoração."
+          "short": "2-Seater sofa bed, blue",
+          "long": "Any doubt that a piece of furniture like the Genoa Sofa Bed can give a new look to your space? Whether in the living room, office, or bedroom, it adapts very well to your needs and adds a charming touch to the environment. The cozy structure combined with the tapered legs is great for you to sit, watch TV, read a book, or unwind in your daily life. But if you need to take a nap or have guests at home, just unzip the zippers that store the legs to turn it into a bed. Cool, right? Oh, it also has this beautiful blue color to be the final touch of the decor."
         },
         "colors": [
           {
-            "name": "Azul",
+            "name": "Blue",
             "hex": "#0000FF"
           }
         ],
@@ -35,20 +35,20 @@
       {
         "id": 2,
         "sku": "204089",
-        "title": "Sofá-Cama 3 Lugares Casal Premium Suede Cinza",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Suede Premium",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 1705.99,
         "salePrice": 1172.66,
         "discountPercentage": 0.31,
         "new": false,
         "description": {
-          "short": "O Sofá-Cama Premium vai renovar os seus dias de descanso",
-          "long": "Dono de um visual que promete levar sofisticação e aconchego para a sua casa, o Sofá-Cama Premium vai renovar os seus dias de descanso, além de ser uma peça digna de elogios em qualquer decoração. Por dentro, ele tem madeira de reflorestamento na composição, uma ótima característica para o uso diário. Já por fora, o suede faz com que todo mundo tenha vontade de ficar nele sem hora para sair, assim como aprimora os seus momentos de lazer em frente à televisão. Ah, para fechar com chave de ouro, ele se transforma rapidamente de sofá para cama para se adaptar à sua rotina e necessidades. Muitos benefícios para um lar que merece ser igualmente incrível ;)"
+          "short": "3-seater sofa bed, gray",
+          "long": "Boasting a look that promises to bring sophistication and coziness to your home, the Premium Sofa Bed will renew your days of rest and is a piece worthy of compliments in any decor. Inside, it features reforested wood in its composition, a great characteristic for daily use. On the outside, the suede makes everyone want to stay on it indefinitely, enhancing your leisure moments in front of the TV. And to top it all off, it quickly transforms from sofa to bed to adapt to your routine and needs. Many benefits for a home that deserves to be equally amazing."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -67,20 +67,20 @@
       {
         "id": 3,
         "sku": "531875",
-        "title": "Sofá-Cama 3 Lugares Casal Córsega Cinza Escuro",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Córsega",
+        "category": "Sofa",
+        "tags": ["Sofa", "Living room", "Bedroom"],
         "normalPrice": 3119.99,
         "salePrice": 1619.98,
         "discountPercentage": 0.48,
         "new": false,
         "description": {
-          "short": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente",
-          "long": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente, independente de onde escolher colocá-lo. Combinando uma estrutura elegante com pés palito, ele serve tanto para aqueles momentos de lazer em frente à televisão ou lendo um livro, como também para acomodar as suas visitas que passarão à noite na sua casa. Para isso, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Demais, né? Ah, a cor cinza e os detalhes do revestimento só acrescentam mais charme ao seu lar-style."
+          "short": "3-seat sofa bed, dark gray",
+          "long": "A simple piece of furniture like the Córsega Sofa Bed has the ability to transform your space, no matter where you choose to place it. Combining an elegant structure with tapered legs, it serves both as a cozy spot for lounging in front of the TV or reading a book and as a bed for overnight guests. To convert it into a bed, just unzip the compartments that store the legs. How great is that? Plus, the gray color and upholstery details add even more charm to your home style."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -99,20 +99,20 @@
       {
         "id": 4,
         "sku": "531875",
-        "title": "Sofá-Cama 3 Lugares Casal Venice Amarelo",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Venice",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "bedroom"],
         "normalPrice": 4229.99,
         "salePrice": 1781.98,
         "discountPercentage": 0.57,
         "new": false,
         "description": {
-          "short": "O Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos!",
-          "long": "Forma prática de aumentar a receptividade do lar, o Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos! Bem-vindo desde a sala de estar até o escritório, ele tem um design de linhas simples e pés levemente angulados, sem contar na cor marcante que é perfeita para compor o espaço e fazer dele a estrela do ambiente - ah, o acabamento costurado do assento e encosto é outro destaque elegante que vale à pena citar. Para trazer conforto à rotina ou receber os amigos no final de semana, ele acompanha aquela sessão de filme ou bate-papo quando na posição original e, com pequenas mudanças na estrutra, vira um leito extra para os convidados que ficarem a mais. Toda essa usabilidade vai fazer da sua casa um porto seguro onde você pode relaxar e recarregar as energias para o dia seguinte - características que todo mundo quer, né?"
+          "short": "3-seat sofa bed, yellow",
+          "long": "A practical way to enhance the receptiveness of your home, the Venice Sofa Bed is also a great ally for decorating your rooms! Perfect for spaces ranging from the living room to the office, it features a design with simple lines and slightly angled legs. The striking color is ideal for complementing the space and making it the star of the room—plus, the stitched finish on the seat and backrest is another elegant highlight worth mentioning. Whether it's bringing comfort to your daily routine or hosting friends over the weekend, it fits perfectly into a movie session or a chat in its original position, and with a few adjustments, it transforms into an extra bed for additional guests. All this versatility will turn your home into a safe haven where you can relax and recharge for the next day—features that everyone desires."
         },
         "colors": [
           {
-            "name": "Amarelo",
+            "name": "Yellow",
             "hex": "#FFFF00"
           }
         ],
@@ -131,20 +131,20 @@
       {
         "id": 5,
         "sku": "1147903",
-        "title": "Sofá Retrátil Sem Caixa 3 lugares Solomons Linho Bege",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Solomons",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 4409.99,
         "salePrice": 2800.74,
         "discountPercentage": 0.36,
         "new": false,
         "description": {
-          "short": "Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável.",
-          "long": "Aconchegante e receptivo, o Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável. Estruturado em materiais resistentes, ele tem assento e encosto com enchimento em espuma e almofadas soltas em plumante de silicone, conferindo muito bem-estar e aconchego a quem está usando. Além de ser acolhedor e se transformar também em sofá-cama, o móvel é ideal para ambientes menores, pois é do tipo sem caixa, que otimiza o espaço disponível no cômodo e libera mais área de circulação. Tudo isso é arrematado com um design clean e elegante que destaca a cor atemporal e com certeza vai deixar seu cantinho impecável, digno de muitos elogios."
+          "short": "Retractable and no-storage sofa, 3-seater",
+          "long": "Cozy and welcoming, the Solomons Retractable Sofa without Box is perfect for making your home more comfortable. Built with durable materials, it features a seat and backrest filled with foam and loose cushions with silicone padding, providing excellent comfort and coziness. In addition to being inviting and convertible into a sofa bed, this piece is ideal for smaller spaces as it is a boxless type, optimizing the available room space and freeing up more circulation area. All of this is complemented by a clean and elegant design that highlights its timeless color, sure to make your corner flawless and worthy of many compliments."
         },
         "colors": [
           {
-            "name": "Bege",
+            "name": "Beige",
             "hex": "#FFEBCD"
           }
         ],
@@ -163,20 +163,20 @@
       {
         "id": 6,
         "sku": "1147875",
-        "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cru",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Lupin",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 3749.99,
         "salePrice": 2456.96,
         "discountPercentage": 0.34,
         "new": true,
         "description": {
-          "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
-          "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+          "short": "3-seater sofa, retractable and reclining, natural linen",
+          "long": "With numerous structural advantages and an eye-catching design, the Lupin Sofa is the perfect blend of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and simplify the task of rearranging the living room. The combination of high-density foam with a retractable seat and reclining backrest offers the perfect balance for those moments when you need a more complete rest or when hosting guests. Boasting an elegant look that harmoniously integrates with the room's decor, it is also reinforced by a solid wood frame, which adds durability and perfect security to your routine. This way, you can always count on a cozy and well-furnished spot to enjoy relaxing moments."
         },
         "colors": [
           {
-            "name": "Cru",
+            "name": "Raw",
             "hex": "#F5F5DC"
           }
         ],
@@ -195,20 +195,20 @@
       {
         "id": 7,
         "sku": "785346",
-        "title": "Sofá 3 Lugares Belgrado com Chaise Direito Linho Cinza 230 cm",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Belgrado",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 4049.99,
         "salePrice": 2807.96,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": "Recepcionar com aconchego e bom gosto",
-          "long": "Recepcionar com aconchego e bom gosto será uma tarefa fácil com a presença do Sofá Belgrado aí na sua casa! Estruturado em madeira eucalipto de reflorestamento, ele possui percintas elásticas e molas na composição, o que garante uma peça mais firme e agradável de usar. Já por fora, o móvel é revestido em linho, material que agrega valor estético à sua decoração. Ah, não podemos deixar de comentar sobre a chaise, essa parte do sofá que tem a profundidade maior e é perfeita para os momentos de esticar as pernas e relaxar. Só benefícios para o seu doce lar, né? ;)"
+          "short": "3-seater sofa with right chaise",
+          "long": "Welcoming with coziness and good taste will be an easy task with the Belgrado Sofa in your home! Built with reforested eucalyptus wood, it features elastic webbing and springs in its construction, ensuring a firmer and more comfortable piece. On the outside, the sofa is upholstered in linen, which adds aesthetic value to your decor. And we can't forget to mention the chaise, the part of the sofa with greater depth, perfect for stretching your legs and relaxing."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -227,20 +227,20 @@
       {
         "id": 8,
         "sku": "623883",
-        "title": "Sofá Retrátil e Reclinável 3 Lugares Blenda II Suede Grafite",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Blenda II Suede",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 2092.99,
         "salePrice": 1421.96,
         "discountPercentage": 0.32,
         "new": false,
         "description": {
-          "short": "Para promover aconchego e bem-estar aos seus cantinhos preferidos",
-          "long": "Para promover aconchego e bem-estar aos seus cantinhos preferidos, conte com as almofadas que abraçam o corpo e a maciez do suede que só o Sofá Blenda pode oferecer. Graças ao design retilíneo e cor atemporal, ele é perfeito para trazer o charme que falta ao seu lar-style enquanto acomoda familiares e amigos para aquela conversa gostosa em um final de tarde ou sessão de filmes no fim de semana. Para melhorar, ele ainda tem assento retrátil, que ajuda a proporcionar um relaxamento mais pleno, e encosto reclinável que deixa aquele cochilo depois do almoço bem mais confortável."
+          "short": "3-seater sofa, retractable and reclining, graphite",
+          "long": "To promote coziness and well-being in your favorite corners, rely on the cushions that embrace your body and the softness of the suede that only the Blenda Sofa can offer. With its straight lines and timeless color, it's perfect for adding the missing charm to your home style while accommodating family and friends for a pleasant chat on a late afternoon or a movie session on the weekend. To top it off, it also features a retractable seat for a more complete relaxation experience and a reclining backrest that makes that post-lunch nap much more comfortable."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -259,20 +259,20 @@
       {
         "id": 9,
         "sku": "813087",
-        "title": "Sofá 3 Lugares Retrátil Berna Linho Grafite 180 cm",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Berna",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 1749.99,
         "salePrice": 1295.96,
         "discountPercentage": 0.25,
         "new": false,
         "description": {
-          "short": "Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)",
-          "long": "Momentos mais aconchegantes e uma sala de estar completa te esperam com a presença do Sofá Berna! Estruturado em madeira eucalipto, que é um ótimo reforço para o uso do dia a dia, a peça possui percintas elásticas na composição, encosto fixo em fibra siliconada e assento retrátil em espuma D26. Já por fora, o móvel ainda é revestido em linho com uma coloração que agrega beleza e bom gosto à decoração do seu espaço. Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)"
+          "short": "3-seater sofa, retractable, graphite linen, 180 cm",
+          "long": "Cozy moments and a complete living room await you with the Berna Sofa! Constructed from eucalyptus wood, which provides excellent reinforcement for everyday use, the piece features elastic webbing, a fixed backrest with silicone fiber, and a retractable seat with D26 foam. On the outside, it is upholstered in linen with a color that adds beauty and good taste to your space's decor. Whether for hosting guests or stretching out during rest periods, it will be indispensable in your routine."
         },
         "colors": [
           {
-            "name": "Grafite",
+            "name": "Graphite",
             "hex": "#4F4F4F"
           }
         ],
@@ -291,20 +291,20 @@
       {
         "id": 10,
         "sku": "1147877",
-        "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cinza",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Lupin II",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 3749.99,
         "salePrice": 2447.96,
         "discountPercentage": 0.34,
         "new": true,
         "description": {
-          "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
-          "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+          "short": "3-seat sofa, gray linen",
+          "long": "With numerous structural advantages and an eye-catching design, the Lupin Sofa is the perfect blend of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and simplify the task of rearranging the living room. The combination of high-density foam with a retractable seat and reclining backrest offers the perfect balance for those moments when you need a more complete rest or when hosting guests. Boasting an elegant look that harmoniously integrates with the room's decor, it is also reinforced by a solid wood frame, adding durability and perfect security to your routine. This way, you can always count on a cozy and well-furnished spot to enjoy relaxing moments."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -323,20 +323,20 @@
       {
         "id": 11,
         "sku": "531871",
-        "title": "Sofá-Cama 2 Lugares Casal Génova Azul",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Génova II",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 3199.99,
         "salePrice": 1844.98,
         "discountPercentage": 0.42,
         "new": true,
         "description": {
-          "short": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente?",
-          "long": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente? Seja na sala de estar, no escritório ou no quarto, ele se adapta muito bem às suas necessidades e ainda dá um toque charmoso para o ambiente. A estrutura aconchegante combinada com os pés palito é ótima para você se sentar, assistir à televisão, ler um livro ou espairecer no dia a dia. Mas se precisar tirar um cochilo ou se for receber visitas em casa, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Show, né? Ah, ele ainda tem essa linda cor azul para ser o toque final da decoração."
+          "short": "2-Seater sofa bed, blue",
+          "long": "Any doubt that a piece of furniture like the Genoa Sofa Bed can give a new look to your space? Whether in the living room, office, or bedroom, it adapts very well to your needs and adds a charming touch to the environment. The cozy structure combined with the tapered legs is great for you to sit, watch TV, read a book, or unwind in your daily life. But if you need to take a nap or have guests at home, just unzip the zippers that store the legs to turn it into a bed. Cool, right? Oh, it also has this beautiful blue color to be the final touch of the decor."
         },
         "colors": [
           {
-            "name": "Azul",
+            "name": "Blue",
             "hex": "#0000FF"
           }
         ],
@@ -355,20 +355,20 @@
       {
         "id": 12,
         "sku": "204089",
-        "title": "Sofá-Cama 3 Lugares Casal Premium Suede Cinza",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Suede",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 1705.99,
         "salePrice": 1172.66,
         "discountPercentage": 0.31,
         "new": true,
         "description": {
-          "short": "O Sofá-Cama Premium vai renovar os seus dias de descanso",
-          "long": "Dono de um visual que promete levar sofisticação e aconchego para a sua casa, o Sofá-Cama Premium vai renovar os seus dias de descanso, além de ser uma peça digna de elogios em qualquer decoração. Por dentro, ele tem madeira de reflorestamento na composição, uma ótima característica para o uso diário. Já por fora, o suede faz com que todo mundo tenha vontade de ficar nele sem hora para sair, assim como aprimora os seus momentos de lazer em frente à televisão. Ah, para fechar com chave de ouro, ele se transforma rapidamente de sofá para cama para se adaptar à sua rotina e necessidades. Muitos benefícios para um lar que merece ser igualmente incrível ;)"
+          "short": "3-seater sofa bed, gray",
+          "long": "Boasting a look that promises to bring sophistication and coziness to your home, the Premium Sofa Bed will renew your days of rest and is a piece worthy of compliments in any decor. Inside, it features reforested wood in its composition, a great characteristic for daily use. On the outside, the suede makes everyone want to stay on it indefinitely, enhancing your leisure moments in front of the TV. And to top it all off, it quickly transforms from sofa to bed to adapt to your routine and needs. Many benefits for a home that deserves to be equally amazing."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -386,20 +386,20 @@
       {
         "id": 13,
         "sku": "531875",
-        "title": "Sofá-Cama 3 Lugares Casal Córsega Cinza Escuro",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Córsega II",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 3119.99,
         "salePrice": 1619.98,
         "discountPercentage": 0.48,
         "new": true,
         "description": {
-          "short": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente",
-          "long": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente, independente de onde escolher colocá-lo. Combinando uma estrutura elegante com pés palito, ele serve tanto para aqueles momentos de lazer em frente à televisão ou lendo um livro, como também para acomodar as suas visitas que passarão à noite na sua casa. Para isso, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Demais, né? Ah, a cor cinza e os detalhes do revestimento só acrescentam mais charme ao seu lar-style."
+          "short": "3-seat sofa bed, dark gray",
+          "long": "A simple piece of furniture like the Córsega Sofa Bed has the ability to transform your space, no matter where you choose to place it. Combining an elegant structure with tapered legs, it serves both as a cozy spot for lounging in front of the TV or reading a book and as a bed for overnight guests. To convert it into a bed, just unzip the compartments that store the legs. How great is that? Plus, the gray color and upholstery details add even more charm to your home style."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -418,20 +418,20 @@
       {
         "id": 14,
         "sku": "531875",
-        "title": "Sofá-Cama 3 Lugares Casal Venice Amarelo",
-        "category": "Sofás",
-        "tags": ["Sofá-cama", "Sala", "Quarto"],
+        "title": "Venice II",
+        "category": "Sofa",
+        "tags": ["Sofa bed", "Living room", "Bedroom"],
         "normalPrice": 4229.99,
         "salePrice": 1781.98,
         "discountPercentage": 0.57,
         "new": true,
         "description": {
-          "short": "O Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos!",
-          "long": "Forma prática de aumentar a receptividade do lar, o Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos! Bem-vindo desde a sala de estar até o escritório, ele tem um design de linhas simples e pés levemente angulados, sem contar na cor marcante que é perfeita para compor o espaço e fazer dele a estrela do ambiente - ah, o acabamento costurado do assento e encosto é outro destaque elegante que vale à pena citar. Para trazer conforto à rotina ou receber os amigos no final de semana, ele acompanha aquela sessão de filme ou bate-papo quando na posição original e, com pequenas mudanças na estrutra, vira um leito extra para os convidados que ficarem a mais. Toda essa usabilidade vai fazer da sua casa um porto seguro onde você pode relaxar e recarregar as energias para o dia seguinte - características que todo mundo quer, né?"
+          "short": "3-seat sofa bed, yellow",
+          "long": "A practical way to enhance the receptiveness of your home, the Venice Sofa Bed is also a great ally for decorating your rooms! Perfect for spaces ranging from the living room to the office, it features a design with simple lines and slightly angled legs. The striking color is ideal for complementing the space and making it the star of the room—plus, the stitched finish on the seat and backrest is another elegant highlight worth mentioning. Whether it's bringing comfort to your daily routine or hosting friends over the weekend, it fits perfectly into a movie session or a chat in its original position, and with a few adjustments, it transforms into an extra bed for additional guests. All this versatility will turn your home into a safe haven where you can relax and recharge for the next day—features that everyone desires."
         },
         "colors": [
           {
-            "name": "Amarelo",
+            "name": "Yellow",
             "hex": "#FFFF00"
           }
         ],
@@ -449,20 +449,20 @@
       {
         "id": 15,
         "sku": "1147903",
-        "title": "Sofá Retrátil Sem Caixa 3 lugares Solomons Linho Bege",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Solomons II",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 4409.99,
         "salePrice": 2800.74,
         "discountPercentage": 0.36,
         "new": true,
         "description": {
-          "short": "Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável.",
-          "long": "Aconchegante e receptivo, o Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável. Estruturado em materiais resistentes, ele tem assento e encosto com enchimento em espuma e almofadas soltas em plumante de silicone, conferindo muito bem-estar e aconchego a quem está usando. Além de ser acolhedor e se transformar também em sofá-cama, o móvel é ideal para ambientes menores, pois é do tipo sem caixa, que otimiza o espaço disponível no cômodo e libera mais área de circulação. Tudo isso é arrematado com um design clean e elegante que destaca a cor atemporal e com certeza vai deixar seu cantinho impecável, digno de muitos elogios."
+          "short": "Retractable and no-storage sofa, 3-seater",
+          "long": "Cozy and welcoming, the Solomons Retractable Sofa without Box is perfect for making your home more comfortable. Built with durable materials, it features a seat and backrest filled with foam and loose cushions with silicone padding, providing excellent comfort and coziness. In addition to being inviting and convertible into a sofa bed, this piece is ideal for smaller spaces as it is a boxless type, optimizing the available room space and freeing up more circulation area. All of this is complemented by a clean and elegant design that highlights its timeless color, sure to make your corner flawless and worthy of many compliments."
         },
         "colors": [
           {
-            "name": "Bege",
+            "name": "Beige",
             "hex": "#FFEBCD"
           }
         ],
@@ -481,20 +481,20 @@
       {
         "id": 16,
         "sku": "1147875",
-        "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cru",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Lupin III",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 3749.99,
         "salePrice": 2456.96,
         "discountPercentage": 0.34,
         "new": true,
         "description": {
-          "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
-          "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+          "short": "3-seater sofa, retractable and reclining, natural linen",
+          "long": "With numerous structural advantages and an eye-catching design, the Lupin Sofa is the perfect blend of comfort and beauty. The first highlight is the casters, which make the piece easily adaptable to the space and simplify the task of rearranging the living room. The combination of high-density foam with a retractable seat and reclining backrest offers the perfect balance for those moments when you need a more complete rest or when hosting guests. Boasting an elegant look that harmoniously integrates with the room's decor, it is also reinforced by a solid wood frame, which adds durability and perfect security to your routine. This way, you can always count on a cozy and well-furnished spot to enjoy relaxing moments."
         },
         "colors": [
           {
-            "name": "Cru",
+            "name": "Raw",
             "hex": "#F5F5DC"
           }
         ],
@@ -513,20 +513,20 @@
       {
         "id": 17,
         "sku": "785346",
-        "title": "Sofá 3 Lugares Belgrado com Chaise Direito Linho Cinza 230 cm",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Belgrado II",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 4049.99,
         "salePrice": 2807.96,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Recepcionar com aconchego e bom gosto",
-          "long": "Recepcionar com aconchego e bom gosto será uma tarefa fácil com a presença do Sofá Belgrado aí na sua casa! Estruturado em madeira eucalipto de reflorestamento, ele possui percintas elásticas e molas na composição, o que garante uma peça mais firme e agradável de usar. Já por fora, o móvel é revestido em linho, material que agrega valor estético à sua decoração. Ah, não podemos deixar de comentar sobre a chaise, essa parte do sofá que tem a profundidade maior e é perfeita para os momentos de esticar as pernas e relaxar. Só benefícios para o seu doce lar, né? ;)"
+           "short": "3-seater sofa with right chaise",
+          "long": "Welcoming with coziness and good taste will be an easy task with the Belgrado Sofa in your home! Built with reforested eucalyptus wood, it features elastic webbing and springs in its construction, ensuring a firmer and more comfortable piece. On the outside, the sofa is upholstered in linen, which adds aesthetic value to your decor. And we can't forget to mention the chaise, the part of the sofa with greater depth, perfect for stretching your legs and relaxing."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -544,20 +544,20 @@
       {
         "id": 18,
         "sku": "623883",
-        "title": "Sofá Retrátil e Reclinável 3 Lugares Blenda II Suede Grafite",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Blenda III Suede",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 2092.99,
         "salePrice": 1421.96,
         "discountPercentage": 0.32,
         "new": true,
         "description": {
-          "short": "Para promover aconchego e bem-estar aos seus cantinhos preferidos",
-          "long": "Para promover aconchego e bem-estar aos seus cantinhos preferidos, conte com as almofadas que abraçam o corpo e a maciez do suede que só o Sofá Blenda pode oferecer. Graças ao design retilíneo e cor atemporal, ele é perfeito para trazer o charme que falta ao seu lar-style enquanto acomoda familiares e amigos para aquela conversa gostosa em um final de tarde ou sessão de filmes no fim de semana. Para melhorar, ele ainda tem assento retrátil, que ajuda a proporcionar um relaxamento mais pleno, e encosto reclinável que deixa aquele cochilo depois do almoço bem mais confortável."
+          "short": "3-seater sofa, retractable and reclining, graphite",
+          "long": "To promote coziness and well-being in your favorite corners, rely on the cushions that embrace your body and the softness of the suede that only the Blenda Sofa can offer. With its straight lines and timeless color, it's perfect for adding the missing charm to your home style while accommodating family and friends for a pleasant chat on a late afternoon or a movie session on the weekend. To top it off, it also features a retractable seat for a more complete relaxation experience and a reclining backrest that makes that post-lunch nap much more comfortable."
         },
         "colors": [
           {
-            "name": "Cinza",
+            "name": "Gray",
             "hex": "#808080"
           }
         ],
@@ -575,20 +575,20 @@
       {
         "id": 19,
         "sku": "813087",
-        "title": "Sofá 3 Lugares Retrátil Berna Linho Grafite 180 cm",
-        "category": "Sofás",
-        "tags": ["Sofá Retrátil", "Sala"],
+        "title": "Berna II",
+        "category": "Sofa",
+        "tags": ["Retractable sofa", "Living room"],
         "normalPrice": 1749.99,
         "salePrice": 1295.96,
         "discountPercentage": 0.25,
         "new": true,
         "description": {
-          "short": "Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)",
-          "long": "Momentos mais aconchegantes e uma sala de estar completa te esperam com a presença do Sofá Berna! Estruturado em madeira eucalipto, que é um ótimo reforço para o uso do dia a dia, a peça possui percintas elásticas na composição, encosto fixo em fibra siliconada e assento retrátil em espuma D26. Já por fora, o móvel ainda é revestido em linho com uma coloração que agrega beleza e bom gosto à decoração do seu espaço. Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)"
+          "short": "3-seater sofa, retractable, graphite linen, 180 cm",
+          "long": "Cozy moments and a complete living room await you with the Berna Sofa! Constructed from eucalyptus wood, which provides excellent reinforcement for everyday use, the piece features elastic webbing, a fixed backrest with silicone fiber, and a retractable seat with D26 foam. On the outside, it is upholstered in linen with a color that adds beauty and good taste to your space's decor. Whether for hosting guests or stretching out during rest periods, it will be indispensable in your routine."
         },
         "colors": [
           {
-            "name": "Grafite",
+            "name": "Graphite",
             "hex": "#4F4F4F"
           }
         ],
@@ -607,20 +607,20 @@
       {
         "id": 21,
         "sku": "1089207",
-        "title": "Mesa de Jantar Retangular Macaúba Madeira Maciça Amêndoa 160 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Jantar", "Mesa", "Cozinha"],
+        "title": "Macaúba",
+        "category": "Table",
+        "tags": ["Dining table", "Table", "Kitchen"],
         "normalPrice": 3099.99,
         "salePrice": 1795.46,
         "discountPercentage": 0.42,
         "new": true,
         "description": {
-          "short": "Inspirada na beleza e imponência da frutífera palmeira, a Mesa de Jantar Macaúba será a protagonista em sua sala de jantar.",
-          "long": "Inspirada na beleza e imponência da frutífera palmeira, a Mesa de Jantar Macaúba será a protagonista em sua sala de jantar. Com aspecto natural e robusto, a peça valoriza a madeira maciça da estrutura, que não só oferece ótima estabilidade como garante mais durabilidade - o acabamento em verniz ainda protege contra umidade e facilita a limpeza. Feita em linhas retas e madeira grossas, a mesa acomoda até 6 lugares e traz em seu design aquele ar aconchegante de casa de campo ou praia, assim contribui para que seu cantinho na cidade fique mais acolhedor, receptivo e charmoso. Daí é só adquirir boas cadeiras ou, se preferir, comprar também o banco da mesma linha :)"
+          "short": "Rectangular solid wood dining table, 160 cm",
+          "long": "Inspired by the beauty and grandeur of the fruit-bearing palm, the Macaúba Dining Table will be the centerpiece of your dining room. With a natural and robust appearance, the piece highlights the solid wood structure, which not only provides excellent stability but also ensures greater durability—the varnish finish protects against moisture and makes cleaning easier. Made with straight lines and thick wood, the table accommodates up to 6 seats and brings a cozy, country or beach house vibe to your space, making your city corner more welcoming and charming. You can then pair it with good chairs or, if you prefer, also purchase the matching bench."
         },
         "colors": [
           {
-            "name": "Amêndoa",
+            "name": "Almond",
             "hex": "#FFEBCD"
           }
         ],
@@ -639,16 +639,16 @@
       {
         "id": 22,
         "sku": "718045",
-        "title": "Mesa de Jantar Redonda com Tampo de Vidro Isabela Ipê e Off White 100 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Jantar", "Mesa", "Cozinha"],
+        "title": "Isabela",
+        "category": "Table",
+        "tags": ["Dining table", "Table", "Kitchen"],
         "normalPrice": 993.99,
         "salePrice": 593.96,
         "discountPercentage": 0.4,
         "new": true,
         "description": {
-          "short": "A Mesa Isabela é um item indispensável para o funcionamento da sua rotina, seja para as refeições diárias ou para os momentos de confraternização entre familiares e amigos.",
-          "long": "A Mesa Isabela é um item indispensável para o funcionamento da sua rotina, seja para as refeições diárias ou para os momentos de confraternização entre familiares e amigos. Com tampo de vidro + estrutura elegante, ela é simples de harmonizar com os outros móveis essenciais ao ambiente e oferece um ótimo reforço quando precisar dispor pratos, talheres e copos para acolher a todos com bastante receptividade. Ah, a peça não acompanha cadeiras e você deve adquiri-las separadamente para deixar o uso completo."
+          "short": "Round dining table with glass top, 100 cm",
+          "long": "The Isabela Table is an essential item for your routine, whether for daily meals or for gatherings with family and friends. With a glass top and elegant structure, it is easy to coordinate with other essential furniture and provides excellent support when you need to set out plates, cutlery, and glasses to welcome everyone with warmth. Note that the piece does not include chairs, which should be purchased separately for complete use."
         },
         "colors": [
           {
@@ -669,20 +669,20 @@
       {
         "id": 23,
         "sku": "782050",
-        "title": "Mesa de Jantar Retangular com Tampo de Vidro Agata Off White e Nature 130 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Jantar", "Mesa", "Sala"],
+        "title": "Agata",
+        "category": "Table",
+        "tags": ["Dining table", "Table", "Dining room", "Kitchen"],
         "normalPrice": 1299.99,
         "salePrice": 890.96,
         "discountPercentage": 0.31,
         "new": true,
         "description": {
-          "short": "Sua sala de jantar ou cozinha precisa ser bem equipada para deixar os momentos de confraternização ainda mais especiais, seja acompanhando o dia a dia ou recebendo os amigos em diferentes ocasiões.",
-          "long": "Sua sala de jantar ou cozinha precisa ser bem equipada para deixar os momentos de confraternização ainda mais especiais, seja acompanhando o dia a dia ou recebendo os amigos em diferentes ocasiões. Para isso, o modelo Agata é a opção ideal! Graças ao seu tampo amplo, você vai conseguir acomodar bem todos os elementos necessários às refeições, como pratos, copos, talheres e bandejas. E, já que um lar-style ideal também é composto por uma bela decoração, o design da peça ajuda a tornar o cômodo mais nobre. A base amadeirada, somada ao tampo de cor sóbria, com bordas arredondadas e acabamento em vidro, confere um toque elegante ao seu espaço. Agora é só adquirir as cadeiras dos sonhos e desfrutar de um lar perfeito ;)"
+          "short": "Rectangular dining table with glass top, 130 cm",
+          "long": "Your dining room or kitchen needs to be well-equipped to make gathering moments even more special, whether for daily use or entertaining friends on various occasions. The Agata model is the ideal choice for this! Thanks to its spacious top, you'll be able to comfortably accommodate all the necessary meal elements, such as plates, glasses, cutlery, and trays. And since an ideal home style also includes beautiful décor, the design of the piece helps to elevate the room's sophistication. The wooden base, combined with the sober-colored top with rounded edges and glass finish, adds an elegant touch to your space. Now just add the dream chairs and enjoy a perfect home"
         },
         "colors": [
           {
-            "name": "Marrom Claro",
+            "name": "Light brown",
             "hex": "#D2B48C"
           }
         ],
@@ -701,20 +701,20 @@
       {
         "id": 24,
         "sku": "782050",
-        "title": "Mesa de Jantar Quadrada Industrial Stanford Amêndoa e Preta 90 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Jantar", "Mesa", "Cozinha"],
+        "title": "Stanford",
+        "category": "Table",
+        "tags": ["Dining table", "Table", "Kitchen"],
         "normalPrice": 587.99,
         "salePrice": 435.59,
         "discountPercentage": 0.25,
         "new": true,
         "description": {
-          "short": "Não tem como negar: a mesa de jantar é um dos poucos móveis que efetivamente reúne a família, afinal, quem não gosta de saborear um bom prato ao lado das pessoas que mais ama?",
-          "long": "Não tem como negar: a mesa de jantar é um dos poucos móveis que efetivamente reúne a família, afinal, quem não gosta de saborear um bom prato ao lado das pessoas que mais ama? E para garantir que o seu ambiente fique impecável, conte com a Mesa Stanford. O modelo busca inspiração no estilo industrial ao juntar base preta em aço carbono e tampo marrom, mas, ao mesmo tempo, abre um leque de possibilidades na hora de colocar a criatividade em prática e fazer as melhores harmonizações para a sua sala de jantar ou cozinha. Mas não pense que os benefícios acabaram, viu? As laterais vazadas e a retilineidade em evidência conferem sofisticação ao cômodo e você ainda pode combiná-la com as outras peças da Linha Stanford para conquistar um visual completo. Ah, a peça não acompanha cadeiras e você deve adquiri-las separadamente para deixar o uso completo."
+          "short": "Industrial square dining table, 90 cm",
+          "long": "There's no denying it: the dining table is one of the few pieces of furniture that truly brings the family together—after all, who doesn't enjoy savoring a good meal alongside their loved ones? To ensure your space looks impeccable, rely on the Stanford Table. This model draws inspiration from the industrial style with its black carbon steel base and brown top, while also offering a range of possibilities for creatively coordinating with your dining room or kitchen. But the benefits don't stop there! The open sides and prominent straight lines add sophistication to the room, and you can also pair it with other pieces from the Stanford Line for a complete look. Note that the piece does not include chairs, which should be purchased separately for full use."
         },
         "colors": [
           {
-            "name": "Carvalho",
+            "name": "Brown",
             "hex": "#A5694F"
           }
         ],
@@ -733,20 +733,20 @@
       {
         "id": 25,
         "sku": "1166596",
-        "title": "Mesa de Jantar Redonda Extensível com Tampo MDF Fresta Avelã",
-        "category": "Mesas",
-        "tags": ["Mesa de Jantar", "Mesa", "Cozinha"],
+        "title": "Fresta",
+        "category": "Table",
+        "tags": ["Dining table", "Table", "Kitchen"],
         "normalPrice": 2219.99,
         "salePrice": 1349.96,
         "discountPercentage": 0.39,
         "new": false,
         "description": {
-          "short": "Nada como conseguir tirar o máximo de potencial da nossa casa, não é? Com a Mesa Extensível Fresta, você não só leva um móvel de estrutura em madeira maciça, que é resistente e durável, como também consegue otimizar sua sala de jantar.",
-          "long": "Nada como conseguir tirar o máximo de potencial da nossa casa, não é? Com a Mesa Extensível Fresta, você não só leva um móvel de estrutura em madeira maciça, que é resistente e durável, como também consegue otimizar sua sala de jantar. Quando fechada, ela comporta até 4 pessoas, sendo perfeita para o dia a dia - já quando chegar uma visita você pode abrir e ganhar mais 25cm de tampo de maneira rápida e descomplicada, assim todo mundo fica confortável. Ah, a tonalidade da madeira com o acabamento envernizado leva uma beleza natural para a decoração e ainda facilita a limpeza diária. Daí é só adquirir boas cadeiras e completar o cômodo :)"
+          "short": "Round extendable dining table with MDF top",
+          "long": "There's nothing like maximizing the potential of our home, right? With the Fresta Extendable Table, you not only get a piece of furniture with a solid wood structure that is resistant and durable, but you also optimize your dining room. When closed, it accommodates up to 4 people, making it perfect for daily use. When guests arrive, you can easily extend it to add 25 cm to the tabletop, ensuring everyone is comfortable. The wood's finish with a varnished coating adds natural beauty to the decor and also makes daily cleaning easier. Then just add some great chairs to complete the room."
         },
         "colors": [
           {
-            "name": "Avelã",
+            "name": "Hazelnut",
             "hex": "#8E7618"
           }
         ],
@@ -765,20 +765,20 @@
       {
         "id": 26,
         "sku": "872145",
-        "title": "Mesa de Escritório Anah Freijó e Preta",
-        "category": "Mesas",
-        "tags": ["Mesa de Escritório", "Mesa", "Escritório"],
+        "title": "Anah",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk", "Office"],
         "normalPrice": 789.99,
         "salePrice": 404.96,
         "discountPercentage": 0.48,
         "new": true,
         "description": {
-          "short": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos.",
-          "long": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos para deixar objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
+          "short": "Office desk",
+          "long": "Being well-accommodated in an organized environment greatly enhances daily productivity, did you know? That is why the Anah Office Desk is a great ally for your work or study hours. With its spacious top, it allows you to arrange essential items like your laptop, notebook, stationery, and even a small organizer to keep smaller objects within reach. Versatile, the desk features an industrial look that highlights its black structure and wood-finished top, making it an ideal addition to any decor as it complements everything and adds an extra touch of charm to the space. Now, your home office will not only be functional but also stylish and tasteful!"
         },
         "colors": [
           {
-            "name": "Carvalho",
+            "name": "Brown",
             "hex": "#A5694F"
           }
         ],
@@ -795,20 +795,20 @@
       {
         "id": 27,
         "sku": "872146",
-        "title": "Mesa de Escritório em L Anah Freijó e Preta",
-        "category": "Mesas",
-        "tags": ["Mesa de Escritório", "Mesa", "Escritório"],
+        "title": "Anah II",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk", "Office"],
         "normalPrice": 989.99,
         "salePrice": 622.74,
         "discountPercentage": 0.37,
         "new": false,
         "description": {
-          "short": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos.",
-          "long": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos para deixar objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
+          "short": "Office desk",
+          "long": "Being well-accommodated in an organized environment greatly enhances daily productivity, did you know? That is why the Anah Office Desk is a great ally for your work or study hours. With its spacious top, it allows you to arrange essential items like your laptop, notebook, stationery, and even a small organizer to keep smaller objects within reach. Versatile, the desk features an industrial look that highlights its black structure and wood-finished top, making it an ideal addition to any decor as it complements everything and adds an extra touch of charm to the space. Now, your home office will not only be functional but also stylish and tasteful!"
         },
         "colors": [
           {
-            "name": "Carvalho",
+            "name": "Brown",
             "hex": "#A5694F"
           }
         ],
@@ -826,16 +826,16 @@
       {
         "id": 28,
         "sku": "773224",
-        "title": "Mesa de Escritório Studio Nogal 150 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Escritório", "Mesa", "Escritório"],
+        "title": "Studio",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk", "Office"],
         "normalPrice": 442.99,
         "salePrice": 254.64,
         "discountPercentage": 0.42,
         "new": true,
         "description": {
-          "short": "Com a Mesa Studio os seus objetos pertinentes à rotina ficam dispostos no tampo.",
-          "long": "Você não precisa encher o seu cômodo de coisas para conquistar um cantinho de estudos ou home office completo. Pelo contrário, basta apostar nos móveis certos para que o seu desempenho ganhe uma grande aliada: a organização! Com a Mesa Studio os seus objetos pertinentes à rotina ficam dispostos no tampo, além daqueles itens decorativos que ajudam a deixar o cômodo mais receptivo. Já o visual de cores tradicionais e design discreto ajuda a ambientar o espaço de maneira profissional e agradável para o dia a dia. Agora é só encontrar uma cadeira para dar aquele match perfeito com a sua mesa!"
+          "short": "Office desk, 150 cm",
+          "long": "You do not need to fill your space with things to create a complete study or home office corner. On the contrary, just choosing the right furniture can make organization a great ally for your productivity! With the Studio Desk, your essential items are neatly arranged on the top, along with decorative pieces that help make the room more inviting. The traditional colors and understated design create a professional and pleasant atmosphere for daily use. Now, just find a chair to perfectly match your desk!"
         },
         "colors": [
           {
@@ -858,20 +858,20 @@
       {
         "id": 29,
         "sku": "225653",
-        "title": "Mesa de Escritório em L Nero Branco",
-        "category": "Mesas",
-        "tags": ["Mesa de Escritório", "Mesa", "Escritório"],
+        "title": "Nero",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk", "Office"],
         "normalPrice": 997.99,
         "salePrice": 612.71,
         "discountPercentage": 0.38,
         "new": true,
         "description": {
-          "short": "Confeccionada com materiais resistentes e de qualidade",
-          "long": "Você quer deixar seu escritório muito mais usual e completo? Então que tal apostar na Mesa de Escritório em L Nero? Confeccionada com materiais resistentes e de qualidade, ela é ideal para deixar o espaço muito mais produtivo. Aproveite!"
+          "short": "L-shaped office desk",
+          "long": "Want to make your office much more functional and complete? How about choosing the Nero L-Shaped Office Desk? Made from durable and high-quality materials, it's perfect for making your workspace much more productive."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "White",
             "hex": "#FFFFFF"
           }
         ],
@@ -890,20 +890,20 @@
       {
         "id": 30,
         "sku": "1164648",
-        "title": "Mesa de Escritório em L Studio Preta 120x140 cm",
-        "category": "Mesas",
-        "tags": ["Mesa de Escritório", "Mesa", "Escritório"],
+        "title": "Studio",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk", "Office"],
         "normalPrice": 719.99,
         "salePrice": 359.96,
         "discountPercentage": 0.5,
         "new": false,
         "description": {
-          "short": "Com a Mesa Studio, você leva uma peça de tendência industrial para seu ambiente",
-          "long": "Ter um espaço de trabalho bonito e bem decorado também faz diferença no dia a dia, não é mesmo? Com a Mesa Studio, você leva uma peça de tendência industrial para seu ambiente, que não só dá modernidade à decoração como também é fácil de combinar com cadeira, estante e outros elementos de escritório. Já o formato em L é perfeito para você que usa muitos papéis ou acessórios no dia a dia, pois deixa tudo organizado e à mão, prontinho para o uso. Daí é só aproveitar tudo isso para produzir mais e melhor ;)"
+          "short": "L-shaped office desk, 120x140 cm",
+          "long": "Having a beautiful and well-decorated workspace also makes a difference in your daily life, doesn’t it? With the Studio Desk, you bring an industrial trend piece into your environment, which not only adds modernity to the decor but is also easy to match with chairs, bookshelves, and other office elements. The L-shaped design is perfect for those who use a lot of papers or accessories daily, as it keeps everything organized and within reach, ready for use. Then you can just enjoy all this to produce more and better."
         },
         "colors": [
           {
-            "name": "Preto",
+            "name": "Black",
             "hex": "#000000"
           }
         ],
@@ -922,20 +922,20 @@
       {
         "id": 31,
         "sku": "1016962",
-        "title": "Guarda-Roupa Casal com Espelho Valência 2 PT 6 GV Branco",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Valência",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 2699.99,
         "salePrice": 1738.74,
         "discountPercentage": 0.35,
         "new": true,
         "description": {
-          "short": "Bonito o Guarda-Roupa Valência, né? Além de contar com esse visual moderno e imponente que deixa em destaque os espelhos formando uma linha horizontal, ele é amplo e perfeito para ser dividido por um casal.",
-          "long": "Com 2 portas e 6 gavetas, não vai faltar espaço para vestuário, acessórios, cosméticos e até roupas de cama - tudo encontra um cantinho ideal nas divisões internas. Feito com materiais de qualidade, o móvel tem acabamento em pintura UV, tecnologia que garante mais proteção e durabilidade."
+          "short": "Wardrobe with mirror",
+          "long": "With 2 doors and 6 drawers, there will be no shortage of space for clothing, accessories, cosmetics, and even bedding – everything finds an ideal spot in the internal compartments. Made with quality materials, the piece features a UV paint finish, a technology that ensures greater protection and durability."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           }
         ],
@@ -954,24 +954,24 @@
       {
         "id": 32,
         "sku": "1016954",
-        "title": "Guarda-Roupa Casal com Espelho Paris 3 PT 2 GV",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Paris",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 1329.99,
         "salePrice": 917.94,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Para deixar o dormitório organizado e com o visual em dia, aposte no Guarda-Roupa Paris. Com 3 portas e 2 gavetas, ele tem compartimentos para as peças longas, que vão aos cabideiros, para as que podem ser dobradas e até para perfumaria ou roupas de cama, graças às prateleiras.",
-          "long": "Por fora, o acabamento amadeirado da pintura UV não só garante um móvel bonito, mas também aumenta a durabilidade - já o espelho deixa o cômodo elegante e amplo visualmente. Ah, por falar em amplitude, as portas que deslizam em trilhos de alumínio te ajudam a aproveitar melhor a área disponível, pois não ocupam espaço extra na hora de abrir. Assim, manter o quarto organizado fica fácil!"
+          "short": "Wardrobe with mirror",
+          "long": "With 3 doors and 2 drawers, it has compartments for long garments on hangers, foldable clothes, and even toiletries or bedding, thanks to the shelves. The UV-painted wood finish not only ensures a beautiful piece of furniture but also enhances durability. The mirror adds an elegant and visually spacious touch to the room. Speaking of space, the sliding doors on aluminum tracks help you make the most of the available area as they don’t take up extra space when opened. This way, keeping your room organized becomes easy!"
         },
         "colors": [
           {
-            "name": "Marrom Claro",
+            "name": "Light brown",
             "hex": "#DCAD7F"
           },
           {
-            "name": "Preto",
+            "name": "Black",
             "hex": "#1C1C1C"
           }
         ],
@@ -990,24 +990,24 @@
       {
         "id": 33,
         "sku": "1065514",
-        "title": "Guarda-Roupa Solteiro New Conect 4 PT 3 GV",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "New Conect",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 1489.99,
         "salePrice": 0,
         "discountPercentage": 0,
         "new": true,
         "description": {
-          "short": "Funcional e completo para compor o dormitório de casal.",
-          "long": "o Guarda-Roupa New Conect tem espaço ideal para acomodar todos os pertences de forma organizada, seja nas 3 gavetas ou nas 4 portas - ainda tem nicho externo para pequenos objetos. Por fora, ele traz visual perfeito para quem busca um móvel neutro que casa com as outras mobílias do cômodo sem roubar o protagonismo."
+          "short": "Single wardrobe",
+          "long": "The New Conect Wardrobe has the perfect space to accommodate all your belongings in an organized manner, whether in the 3 drawers or the 4 doors. It also features an external niche for small items. On the outside, it offers a perfect look for those seeking a neutral piece of furniture that complements other furnishings in the room without stealing the spotlight."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           },
           {
-            "name": "Preto",
+            "name": "Black",
             "hex": "#1C1C1C"
           }
         ],
@@ -1026,24 +1026,24 @@
       {
         "id": 34,
         "sku": "936144",
-        "title": "Guarda-Roupa Casal com 2 Espelhos Belluno 2 PT 3 GV",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Belluno",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 2828.99,
         "salePrice": 2240.96,
         "discountPercentage": 0.2,
         "new": false,
         "description": {
-          "short": "Manter tudo organizado é essencial para um dia a dia mais prático, por isso o Guarda-Roupa Belluno vai ser o toque final perfeito para o seu quarto.",
-          "long": "Com compartimentos internos que recebem muito bem as suas roupas, objetos pessoais, sapatos e acessórios, ele deixa tudo em ordem e fácil fácil de alcançar na hora da troca de roupa, não te deixando perder de vista o que é importante. Já por fora ele traz um charme clássico com cor sóbria que é perfeita para harmonizar com o restante do mobiliário, assim você não precisa se preocupar com mais nada além de curtir o seu cantinho relax e repôr as energias para o próximo dia."
+          "short": "Wardrobe with 2 mirrors",
+          "long": "With 2 doors, 3 drawers, and internal compartments that accommodate your clothes, personal items, shoes, and accessories, it keeps everything organized and easy to reach during wardrobe changes, so you won't lose sight of what's important. On the outside, it features a classic charm with a sober color that perfectly harmonizes with the rest of the furniture, allowing you to focus on enjoying your relaxing space and recharging for the next day."
         },
         "colors": [
           {
-            "name": "Preto",
+            "name": "Black",
             "hex": "#1C1C1C"
           },
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           }
         ],
@@ -1062,20 +1062,20 @@
       {
         "id": 35,
         "sku": "1136861",
-        "title": "Guarda-Roupa Closet Studio",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Studio",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 579.99,
         "salePrice": 0,
         "discountPercentage": 0,
         "new": false,
         "description": {
-          "short": "O Guarda-Roupa Studio é uma solução versátil e perfeita para transformar o seu quarto em um espaço bem organizado e cheio de charme: do tipo closet, ele pode ser usado sozinho ou combinado com outros módulos, assim você cria um móvel personalizado e que atende às suas necessidades específicas.",
-          "long": "Além da ótima funcionalidade, ele tem design moderno graças à combinação de materiais e estilo industrial, sem falar na cor, que acrescenta um toque de bom gosto à decoração do ambiente - todas essas características tornam ele uma adição indispensável para deixar a rotina mais agradável e verdadeiramente completa. Aí é só escolher o cantinho onde ele vai brilhar e desfrutar de um lar-style impecável."
+          "short": "Closet wardrobe",
+          "long": "The Studio Wardrobe is a versatile solution perfect for transforming your bedroom into a well-organized and charming space. As a closet-type unit, it can be used alone or combined with other modules, allowing you to create a personalized piece of furniture that meets your specific needs. In addition to its great functionality, it features a modern design thanks to the combination of materials and industrial style, not to mention the color that adds a touch of taste to the room's decor. All these features make it an essential addition to make your daily routine more enjoyable and truly complete. Just choose the spot where it will shine and enjoy an impeccable home-style setup."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           }
         ],
@@ -1094,20 +1094,20 @@
       {
         "id": 36,
         "sku": "952842",
-        "title": "Guarda-Roupa Casal Malibu 6 PT 2 GV",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Malibu",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 579.99,
         "salePrice": 0,
         "discountPercentage": 0,
         "new": true,
         "description": {
-          "short": "Item necessário para o bom funcionamento do quarto, o Guarda-Roupa Malibu é o móvel ideal para que a arrumação do ambiente fique em dia.",
-          "long": "Equipado com portas e gavetas, ele tem compartimentos para vestuário, calçados, acessórios, cosméticos e até caixas organizadoras - tudo para garantir que peças fundamentais à sua rotina estejam sempre à mão. De quebra, o visual robusto com coloração tradicional a esse tipo de mobiliário oferece sofisticação e bom gosto para a decoração do seu espaço. Só benefícios para um lar incrível como o seu."
+          "short": "Couple's wardrobe",
+          "long": "Equipped with 6 doors and 2 drawers, it has compartments for clothing, shoes, accessories, cosmetics, and even organizer boxes - everything to ensure that essential items for your routine are always within reach. Additionally, its robust look with a traditional color for this type of furniture adds sophistication and style to your space's decor."
         },
         "colors": [
           {
-            "name": "Marrom",
+            "name": "Brown",
             "hex": "#7A5B3F"
           }
         ],
@@ -1126,24 +1126,24 @@
       {
         "id": 37,
         "sku": "952842",
-        "title": "Guarda-Roupa Solteiro com Espelho Reflecta Elite II 2 PT 3",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "GReflecta Elite II",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 3574.99,
         "salePrice": 2498.39,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Para dar mais funcionalidade ao quarto e deixar o ambiente organizado, um bom guarda-roupa é essencial. Aposte no modelo Elite para que seu dormitório fique completo de verdade!",
-          "long": "Com ótimo espaço de armazenamento proporcionado pelas duas portas e três gavetas, ele acomoda bem suas peças de vestuário, calçados, acessórios ou outros objetos pessoais e ainda garante que sua rotina fique mais prática. Já por fora, o espelho é um aliado na hora de conferir a maquiagem, o cabelo ou o visual no dia a dia. Tudo isso com um design clássico a esse tipo de móvel e uma coloração neutra que compõem muito bem qualquer estilo de decoração e te ajudam a montar o lar-style dos sonhos."
+          "short": "Single wardrobe with mirror",
+          "long": "With ample storage space provided by 2 doors and 3 drawers, it accommodates your clothing, shoes, accessories, or other personal items well, making your routine more practical. On the outside, the mirror is a helpful ally for checking makeup, hair, or your daily look. All of this comes with a classic design for this type of furniture and a neutral color that complements any style of decor, helping you create the home-style of your dreams."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           },
           {
-            "name": "Marrom",
+            "name": "Brown",
             "hex": "#7A5B3F"
           }
         ],
@@ -1162,20 +1162,20 @@
       {
         "id": 38,
         "sku": "901464",
-        "title": "Armário de Cozinha Completa Madesa Emilly Box com Balcão e Aéreo Vidro - Rustic/Preto",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Cozinha"],
+        "title": "Madesa Emilly",
+        "category": "Kitchen Cabinet",
+        "tags": ["Cabinet", "Home", "Kitchen"],
         "normalPrice": 2249.99,
         "salePrice": 899.99,
         "discountPercentage": 0.4,
         "new": false,
         "description": {
-          "short": "Para dar mais funcionalidade à cozinha e deixar o ambiente organizado, um bom armário é essencial. Aposte no modelo Madesa Emilly para que sua cozinha fique completa de verdade!",
-          "long": "Com ótimo espaço de armazenamento proporcionado pelas suas portas e gavetas, ele acomoda bem seus utensílios e ainda garante que sua rotina fique mais prática. Já por fora, possui um design clássico a esse tipo de móvel e uma coloração neutra que compõem muito bem qualquer estilo de decoração e te ajudam a montar o lar-style dos sonhos."
+          "short": "Complete kitchen cabinet, box with counter and glass upper cabinet",
+          "long": "With ample storage space provided by its doors and drawers, it accommodates your utensils well and makes your routine more practical. On the outside, it features a classic design for this type of furniture and a neutral color that complements any style of decor, helping you create the home-style of your dreams."
         },
         "colors": [
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#0E1410"
           }
         ],
@@ -1194,20 +1194,20 @@
       {
         "id": 39,
         "sku": "1033962",
-        "title": "Guarda-Roupa Solteiro com 1 Espelho Lugano 2",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Lugano ",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 1556.96,
         "salePrice": 0,
         "discountPercentage": 0,
         "new": false,
         "description": {
-          "short": "Quando o assunto é deixar o quarto bem organizado e preparado para a rotina, aposte em um móvel amplo e munido de compartimentos que acomodam tudo o que você precisa.",
-          "long": "O Guarda-Roupa Lugano tem gavetas que recebem roupas dobradas, enquanto os cabideiros deixam as peças longas e delicadas livres de amassados. Já os outros compartimentos apoiam edredons, toalhas, malas de viagem, caixas organizadoras e o que mais você precisar deixar por perto para simplificar a rotina - falando em facilitar, o espelho na porta é um detalhe curinga que não te deixa perder nenhum detalhe do seu look. Com cor sóbria e estrutura clássica, você ganha ainda um aliado para a decoração e que, graças às portas de correr, vai te  ajudar a aproveitar muito mais o espaço do dormitório."
+          "short": "Single wardrobe with mirror",
+          "long": "The Lugano Wardrobe features drawers for folded clothes, while the hangers keep long and delicate items wrinkle-free. The other compartments support comforters, towels, travel bags, organizer boxes, and anything else you need to keep nearby to simplify your routine. Speaking of convenience, the mirror on the door is a versatile detail that helps you check every aspect of your look. With a sober color and classic structure, it also serves as a decor ally and, thanks to the sliding doors, helps you make the most of your bedroom space."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           }
         ],
@@ -1226,20 +1226,20 @@
       {
         "id": 40,
         "sku": "1221811",
-        "title": "Guarda-Roupa Casal com 3 Espelhos Genebra 100% MDF 3 PT 4 GV",
-        "category": "Armarios",
-        "tags": ["Armario", "Casa", "Quarto"],
+        "title": "Genebra",
+        "category": "Wardrobe",
+        "tags": ["Wardrobe", "Home", "Bedroom"],
         "normalPrice": 5479.99,
         "salePrice": 3122.96,
         "discountPercentage": 0.43,
         "new": true,
         "description": {
-          "short": "Buscando por um guarda-roupa que alia funcionalidade e estilo para o seu dormitório?",
-          "long": "O Guarda-Roupa Genebra é a escolha ideal! Construído em MDF resistente, corrediças telescópicas e puxadores em alumínio, este modelo ainda conta com espelho de corpo inteiro, que amplia o espaço e proporciona praticidade no dia a dia. Além da usabilidade, o móvel carrega um design elegante que destaca a cor sóbria e a caixaria robusta. Ah, as portas de correr têm sistema anti descarrilhamento para garantir a segurança na rotina."
+          "short": "Couple's wardrobe with 3 mirrors",
+          "long": "Com 3 portas e 4 gavetas, esse guarda-roupa é construído em MDF resistente, corrediças telescópicas e puxadores em alumínio, este modelo ainda conta com espelho de corpo inteiro, que amplia o espaço e proporciona praticidade no dia a dia. Além da usabilidade, o móvel carrega um design elegante que destaca a cor sóbria e a caixaria robusta. Ah, as portas de correr têm sistema anti descarrilhamento para garantir a segurança na rotina."
         },
         "colors": [
           {
-            "name": "Branco",
+            "name": "Off-white",
             "hex": "#DFDEDC"
           }
         ],
@@ -1257,28 +1257,28 @@
       {
         "id": 41,
         "sku": "730455",
-        "title": "Cadeira Charles Eames II",
-        "category": "Cadeiras",
-        "tags": ["Sala de Jantar", "Cadeiras de jantar", "Cadeiras de cozinha"],
+        "title": "Charles Eames II",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair", "Kitchen"],
         "normalPrice": 169.17,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Cadeira Charles Eames. Além do formato muito tradicional no mundo do design que proporciona mais comodidade durante as atividades",
-          "long": "Funcionais e perfeitas para compor diferentes ambientes da casa, cadeiras são móveis que pedem uma estrutura aconchegante e design lindo - tudo o que você encontra na Cadeira Charles Eames. Além do formato muito tradicional no mundo do design que proporciona mais comodidade durante as atividades, a peça também tem cor fácil de harmonizar com o restante do mobiliário. Tudo isso contribui para que você possa curtir muito mais com seus convidados ou familiares e desfrutar de um lar-style cativante."
+          "short": "Traditional dining chair",
+          "long": "Functional and perfect for various areas of the home, chairs are pieces of furniture that require a cozy structure and beautiful design - everything you find in the Charles Eames Chair. Besides its very traditional design in the world of design that offers greater comfort during activities, the piece also comes in a color that easily harmonizes with the rest of the furniture. All this contributes to allowing you to enjoy more time with your guests or family and to create a captivating home-style."
         },
         "colors": [
           {
-            "name": "rosa",
+            "name": "Pink",
             "hex": "#FF949A"
           },
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#0E1410"
           },
           {
-            "name": "azul",
+            "name": "Baby blue",
             "hex": "#75C3E7"
           }
         ],
@@ -1296,33 +1296,28 @@
       {
         "id": 42,
         "sku": "1099478",
-        "title": "Cadeiras Mona Linho",
-        "category": "Cadeiras",
-        "tags": [
-          "Cadeiras de Jantar",
-          "Sala de jantar",
-          "Conjunto de Mesas e Cadeiras de Jantar",
-          "Cadeiras de Cozinha"
-        ],
+        "title": "Mona",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair", "Kitchen"],
         "normalPrice": 710.96,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": "o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta",
-          "long": "De design contemporâneo que flerta com o estilo minimalista, o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta e à cor neutro do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidade ideal para receber bem. Ah, notou o detalhe em tecido sintético? Puro bom gosto para o seu cantinho"
+          "short": "Linen chairs",
+          "long": "With a contemporary design that flirts with a minimalist style, the Mona Chair Set will look amazing in your home-style. Besides enhancing the environment with its steel structure in black paint and the neutral linen upholstery, it also offers superb comfort with a seat and backrest padded with foam of the ideal density. Oh, did you notice the synthetic fabric detail? It adds a touch of taste to your space."
         },
         "colors": [
           {
-            "name": "Gengibre ",
+            "name": "Ginger",
             "hex": "#CA9C82"
           },
           {
-            "name": "verde",
+            "name": "Green",
             "hex": "#6A8375"
           },
           {
-            "name": "preto",
+            "name": "Gray",
             "hex": "#666668"
           }
         ],
@@ -1340,28 +1335,28 @@
       {
         "id": 43,
         "sku": "1250191",
-        "title": "Cadeiras Tiva Linho",
-        "category": "Cadeiras",
-        "tags": ["Cadeiras de Jantar", "Sala de Jantar"],
+        "title": "Tiva",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair"],
         "normalPrice": 610.97,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho.",
-          "long": "Perfeito para a sala de jantar dos sonhos, o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho. Enquanto a estrutura resistente, o enchimento em espuma e o revestimento em Linho conferem todo o aconchego necessário, as 2 peças têm coloração atemporal e acabamento amadeirado, formando o combo certo para deixar seu cantinho repleto de bom gosto e requinte. Já dá para se imaginar aproveitando bons pratos em ótima companhia, né?"
+          "short": "Linen chairs",
+          "long": "Perfect for the dining room of your dreams, the Tiva Set is not only functional but also adds a touch of sophisticated design to your space. While the sturdy structure, foam padding, and linen upholstery provide all the necessary comfort, the 2 pieces feature timeless colors and a wood-finished look, creating the ideal combination to fill your space with taste and elegance."
         },
         "colors": [
           {
-            "name": "cinza",
+            "name": "Gray",
             "hex": "#8B8A85"
           },
           {
-            "name": "chumbo",
+            "name": "Lead",
             "hex": "#2C2B25"
           },
           {
-            "name": "bege",
+            "name": "Beige",
             "hex": "#C2B79F"
           }
         ],
@@ -1392,15 +1387,15 @@
         },
         "colors": [
           {
-            "name": "branco",
+            "name": "White",
             "hex": "#EBECF0"
           },
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#535258"
           },
           {
-            "name": "rosa",
+            "name": "Pink",
             "hex": "#F3B6A3"
           }
         ],
