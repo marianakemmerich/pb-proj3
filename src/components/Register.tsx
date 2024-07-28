@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react'
-import { auth } from './firebaseConfig'
+import { auth, db } from './firebaseConfig'
 import { createUserWithEmailAndPassword } from 'firebase/auth'
 import { Link, useNavigate } from 'react-router-dom'
+import { setDoc, doc } from 'firebase/firestore'
 
 const Register: React.FC = () => {
   const [firstName, setFirstName] = useState('')
@@ -36,8 +37,16 @@ const Register: React.FC = () => {
 
     try {
       await createUserWithEmailAndPassword(auth, email, password)
+      const user = auth.currentUser
       setSuccess('User registered successfully!')
       setError(null)
+      if(user){
+        await setDoc(doc(db, 'Users', user.uid), {
+          email: user.email,
+          firstName: firstName,
+          lastName: lastName
+        })
+      }
     } catch (error) {
       setError('Failed to register. Please try again.')
       setSuccess(null)
