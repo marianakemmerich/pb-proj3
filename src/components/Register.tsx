@@ -76,7 +76,7 @@ const Register: React.FC = () => {
               value={firstName}
               onChange={(e) => setFirstName(e.target.value)}
               onFocus={handleFocus}
-              className="w-full p-2 border border-lightGray rounded focus:border-pink-500"
+              className="w-full p-2 border border-lightGray rounded"
               required
             />
           </div>
@@ -88,7 +88,7 @@ const Register: React.FC = () => {
               value={lastName}
               onChange={(e) => setLastName(e.target.value)}
               onFocus={handleFocus}
-              className="w-full p-2 border border-lightGray rounded focus:border-pink-500"
+              className="w-full p-2 border border-lightGray rounded"
               required
             />
           </div>
@@ -100,7 +100,7 @@ const Register: React.FC = () => {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               onFocus={handleFocus}
-              className="w-full p-2 border border-lightGray rounded focus:border-pink-500"
+              className="w-full p-2 border border-lightGray rounded"
               required
             />
           </div>
@@ -112,7 +112,7 @@ const Register: React.FC = () => {
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               onFocus={handleFocus}
-              className="w-full p-2 border border-lightGray rounded focus:border-pink-500"
+              className="w-full p-2 border border-lightGray rounded"
               required
             />
           </div>
