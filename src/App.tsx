@@ -6,6 +6,7 @@ import Checkout from './pages/Checkout';
 import Contact from './pages/Contact';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
+import OrderConfirmation from './pages/OrderConfirmation';
 
 const App: React.FC = () => {
   return (
@@ -18,6 +19,7 @@ const App: React.FC = () => {
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
+        <Route path="/order-confirmation" element={<OrderConfirmation />} />
       </Routes>
     </>
   );
