@@ -1374,16 +1374,16 @@
       {
         "id": 44,
         "sku": "1064890 ",
-        "title": "Cadeiras Windsor Fendi",
-        "category": "Cadeiras",
-        "tags": ["Cadeiras de Jantar", "Sala de Jantar"],
+        "title": "Fendi",
+        "category": "Chair",
+        "tags": ["Dining chair", "Dining room"],
         "normalPrice": 872.99,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
-          "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares "
+          "short": "Windsor chair",
+          "long": "In addition to serving for meals, chairs also add a stylish touch to the decor, such as the Windsor model. With a modern design, the four pieces feature wooden legs for stability and an open-back design that adds a unique touch to your home decor, while remaining easy to match with other furniture. They can fit into various environments, whether it's the dining room, living room, or even accompany your vanity. All of this allows you to enjoy quality time with your guests or family."
         },
         "colors": [
           {
@@ -1413,33 +1413,28 @@
       {
         "id": 45,
         "sku": "1064794",
-        "title": "Web Wood Fendi",
-        "category": "Cadeiras",
-        "tags": [
-          "sala de jantar",
-          "cadeiras de cozinha",
-          "cozinha",
-          "cadeiras de cozinha"
-        ],
+        "title": "Fendi Wood",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair", "Kitchen"],
         "normalPrice": 359.96,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
-          "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares"
+          "short": "Web wood chair",
+          "long": "In addition to serving for meals, chairs also add a stylish touch to the decor, such as the Windsor model. With a modern design, the four pieces feature wooden legs for stability and an open-back design that adds a unique touch to your home decor, while remaining easy to match with other furniture. They can fit into various environments, whether it's the dining room, living room, or even accompany your vanity. All of this allows you to enjoy quality time with your guests or family."
         },
         "colors": [
           {
-            "name": "bege",
+            "name": "Beige",
             "hex": "#C7C1A2"
           },
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#24292C"
           },
           {
-            "name": "branco",
+            "name": "Gray",
             "hex": "#AAB2B4"
           }
         ],
@@ -1457,34 +1452,28 @@
       {
         "id": 46,
         "sku": "971915",
-        "title": "Cadeira Masters Allegra",
-        "category": "Cadeiras",
-        "tags": [
-          "sala de jantar",
-          "cadeiras de jantar",
-          "cozinha",
-          "bancos e banquetas",
-          "cadeiras de cozinha"
-        ],
+        "title": "Masters Allegra",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair", "Kitchen"],
         "normalPrice": 159.9,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
-          "long": "Perfeito para a sala de jantar dos sonhos, o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho. Enquanto a estrutura resistente, o enchimento em espuma e o revestimento em Linho conferem todo o aconchego necessário, as 2 peças têm coloração atemporal e acabamento amadeirado, formando o combo certo para deixar seu cantinho repleto de bom gosto e requinte. Já dá para se imaginar aproveitando bons pratos em ótima companhia, né?"
+          "short": "Modern chair set",
+          "long": "Perfect for the dining room of your dreams, the Masters Allegra Set is not only functional but also adds a touch of sophisticated design to your space. While the sturdy frame, foam padding, and linen upholstery provide all the necessary comfort, the two pieces feature timeless coloring and a wood-like finish, creating the perfect combination to make your space full of taste and refinement."
         },
         "colors": [
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#3F3D40"
           },
           {
-            "name": "verde",
+            "name": "Green",
             "hex": "#58937D"
           },
           {
-            "name": "laranja",
+            "name": "Orange",
             "hex": "#FF8D57"
           }
         ],
@@ -1501,29 +1490,29 @@
       },
       {
         "id": 47,
-        "title": "Cadeira Living Estofada Ávila L02",
+        "title": "Ávila L02",
         "sku": "1163777",
-        "category": "Cadeiras",
-        "tags": ["Sala de jantar", "cadeiras de jantar"],
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair"],
         "normalPrice": 712.71,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "a Cadeira Ávila combina estilo e funcionalidade de uma maneira única. Estruturada em madeira maciça, possui detalhes curvilíneos que trazem suavidade e delicadeza a peça",
-          "long": "Inspirada no elegante mobiliário parisiense do século 19 e pensada para proporcionar máximo conforto, a Cadeira Ávila combina estilo e funcionalidade de uma maneira única. Estruturada em madeira maciça, possui detalhes curvilíneos que trazem suavidade e delicadeza a peça, seu acabamento envernizado a torna um mobiliário de destaque e trás durabilidade e confiança ao seu uso. Possui assento estofado, que proporciona ao seu usuário a sensação de comodidade ideal e ainda adiciona classe a qualquer ambiente.  Seu design a torna uma peça versátil que abre portas a sua imaginação pois pode ser disposta em salas de jantar, estar, e espera, quartos, halls de entrada e cozinhas. Expresse seu bom gosto, e adquira já essa obra-prima da sofisticação!"
+          "short": "Upholstered chair",
+          "long": "Inspired by elegant 19th-century Parisian furniture and designed for maximum comfort, the Ávila Chair combines style and functionality in a unique way. Built from solid wood, it features curvilinear details that add softness and delicacy to the piece. Its varnished finish makes it a standout piece, offering durability and reliability. The upholstered seat provides ideal comfort and adds a touch of class to any room. Its versatile design allows it to be placed in dining rooms, living rooms, waiting areas, bedrooms, entry halls, and kitchens, opening doors to your imagination."
         },
         "colors": [
           {
-            "name": "salmão",
+            "name": "Salmon",
             "hex": "#A28D7C"
           },
           {
-            "name": "rosa",
+            "name": "Rose",
             "hex": "#BD9F97"
           },
           {
-            "name": "branco",
+            "name": "Off-white",
             "hex": "#B7ADAC"
           }
         ],
@@ -1540,17 +1529,17 @@
       },
       {
         "id": 48,
-        "title": " Cadeira Melina L02 Couríssimo ",
+        "title": "Melina L02  Couríssimo",
         "sku": "1144106",
-        "category": "Cadeiras",
-        "tags": ["sala de jantar", "Cadeiras de jantar"],
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair"],
         "normalPrice": 887.31,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": true,
         "description": {
-          "short": "Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes.",
-          "long": "Caso você esteja buscando conforto, realce e praticidade, a Cadeira Estofada Melina vai superar todas as suas expectativas. Garante muita comodidade e otimiza o espaço, além de harmonizar com seu estilo decorativo facilmente, podendo ser utilizada em salas de estar, jantar e cozinha, além de dar um toque especial em sua decoração. Sua proposta de design suavizará seu ambiente sem passar despercebida oferecendo mais leveza e receptividade ao seu lar. Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes. Você merece esta incrível combinação em sua casa, adquira já a sua!"
+          "short": "Upholstered chair",
+          "long": "If you're looking for comfort, elegance, and practicality, the Melina Upholstered Chair will exceed all your expectations. It offers great convenience and optimizes space, while easily harmonizing with your decor style. It can be used in living rooms, dining areas, and kitchens, adding a special touch to your decoration. Its design will soften your space without going unnoticed, bringing more lightness and warmth to your home. Constructed from carbon steel, it beautifully contrasts with the upholstered backrest and seat, which are extremely comfortable, durable, and cozy."
         },
         "colors": [
           {
@@ -1558,11 +1547,11 @@
             "hex": "#D7A26E"
           },
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#0F0F0F"
           },
           {
-            "name": "marrom",
+            "name": "Brown",
             "hex": "#673922"
           }
         ],
@@ -1580,33 +1569,28 @@
       {
         "id": 49,
         "sku": "1103940 ",
-        "title": "Cadeira estofada Charles",
-        "category": "Cadeiras",
-        "tags": [
-          "sala de jantar",
-          "Cadeira de jantar",
-          "cozinha",
-          "cadeiras de cozinha"
-        ],
+        "title": "Charles",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair", "Kitchen"],
         "normalPrice": 170.9,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": "Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes.",
-          "long": "Caso você esteja buscando conforto, realce e praticidade, a Cadeira Estofada Melina vai superar todas as suas expectativas. Garante muita comodidade e otimiza o espaço, além de harmonizar com seu estilo decorativo facilmente, podendo ser utilizada em salas de estar, jantar e cozinha, além de dar um toque especial em sua decoração. Sua proposta de design suavizará seu ambiente sem passar despercebida oferecendo mais leveza e receptividade ao seu lar. Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes. Você merece esta incrível combinação em sua casa, adquira já a sua!"
+          "short": "Upholstered chair",
+          "long": "Constructed from carbon steel, it beautifully contrasts with the upholstered backrest and seat, which are extremely comfortable, durable, and cozy."
         },
         "colors": [
           {
-            "name": "preto",
+            "name": "Black",
             "hex": "#333333"
           },
           {
-            "name": "bege",
+            "name": "Beige",
             "hex": "#E4D4BD"
           },
           {
-            "name": "branco",
+            "name": "White",
             "hex": "#DFDFDF"
           }
         ],
@@ -1624,32 +1608,28 @@
       {
         "id": 50,
         "sku": "1007587 ",
-        "title": "Cadeira Lia Grafite",
-        "category": "Cadeiras",
-        "tags": [
-          "sala de jantar",
-          "cadeiras de jantar",
-          "Conjunto de mesas e cadeiras de jantar"
-        ],
+        "title": "Lia",
+        "category": "Chair",
+        "tags": ["Dining room", "Dining chair"],
         "normalPrice": 368.96,
         "salePrice": 175,
         "discountPercentage": 0.3,
         "new": false,
         "description": {
-          "short": " estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo",
-          "long": "De design contemporâneo que flerta com o estilo minimalista, a Cadeira Lia vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo. Versátil, essa peça pode compor diversos ambientes, da sala de jantar até a sala de estar ou escritório - certeza que a estrutura vazada vai levar um charme extra ao seu cantinho "
+          "short": "Chair with linen upholstery",
+          "long": "With a contemporary design that flirts with minimalist style, the Lia Chair will look fantastic in your home decor. Not only does it enhance the environment with its iron frame painted in black epoxy and graphite-colored linen upholstery, but it also offers superb comfort, thanks to its seat and backrest padded with foam of ideal densities to support each specific part of the body. Versatile, this piece can complement various spaces, from the dining room to the living room or office—certainly, the open-frame structure will add an extra touch of charm to your space."
         },
         "colors": [
           {
-            "name": "red",
+            "name": "Graphite",
             "hex": "#36353A"
           },
           {
-            "name": "rosa",
+            "name": "Rose",
             "hex": "#C59687"
           },
           {
-            "name": "branco",
+            "name": "Gray",
             "hex": "#ACAAAE"
           }
         ],
@@ -1667,24 +1647,24 @@
       {
         "id": 51,
         "sku": "872147",
-        "title": "Escrivaninha Anah 1 GV Freijó e Preta",
-        "category": "Mesas",
-        "tags": ["Mesas", "Escritório", "Estudo"],
+        "title": "Anah",
+        "category": "Desk",
+        "tags": ["Desk", "Office", "Study"],
         "normalPrice": 532.99,
         "salePrice": 377.96,
         "discountPercentage": 0.29,
         "new": true,
         "description": {
-          "short": "a Escrivaninha Anah é composta por MDF 25mm, tampo em MDF 24mm, base em MDF 25mm, 1 gaveta com corrediças metálicas, 2 pés fixos e acabamento fosco",
-          "long": "a Escrivaninha Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos, já a gaveta é essencial para manter objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
+          "short": "Desk with one drawer",
+          "long": "The Anah Desk is a great ally for your work or study hours. With a spacious top, it allows you to accommodate essential items such as a laptop, notebook, stationery, and even a small organizer, while the drawer is essential for keeping smaller objects within reach. Versatile, this piece features an industrial look that highlights its black structure and wood-finished top, making it an ideal addition to any decor as it complements everything and adds an extra touch of charm to the space."
         },
         "colors": [
           {
-            "name": "carvalho",
+            "name": "Oak",
             "hex": "#de9864"
           },
           {
-            "name": "black",
+            "name": "Black",
             "hex": "#000000"
           }
         ],
@@ -1703,24 +1683,24 @@
       {
         "id": 52,
         "sku": "1136791",
-        "title": "Escrivaninha Studio Mel e Branca 150 cm",
-        "category": "Mesas",
-        "tags": ["Mesas", "Escritório", "Estudo"],
+        "title": "Studio",
+        "category": "Desk",
+        "tags": ["Desk", "Office", "Study"],
         "normalPrice": 469.99,
         "salePrice": 240.24,
         "discountPercentage": 0.48,
         "new": true,
         "description": {
-          "short": "A Escrivaninha Studio possui estrutura em aço, tampo em MDP 30mm e acabamento fosco",
-          "long": "Estruturada em aço e MDP, a belíssima Escrivaninha Studio é perfeita para compor o seu cantinho de estudos ou trabalho. Com ótimo espaço de tampo, a peça cumpre muito bem a função de acomodar notebook e outros itens essenciais à sua rotina, como luminária e porta-canetas. Somado à funcionalidade, o design clean que conta com tonalidade sóbria e atemporal dá um ar minimalista ao cômodo e torna fácil combiná-la com os outros móveis do home office. Daí, é só adquirir a cadeira perfeita e aproveitar seu espaço produtivo."
+          "short": "150cm desk with a 30mm MDF top and matte finish",
+          "long": "Structured in steel and MDF, the beautiful Studio Desk is perfect for your study or work nook. With ample desktop space, it efficiently accommodates your laptop and other essentials like a desk lamp and pen holder. In addition to its functionality, the clean design with a sober and timeless tone gives a minimalist touch to the room and makes it easy to match with other home office furniture. Just add the perfect chair, and enjoy your productive space."
         },
         "colors": [
           {
-            "name": "madeira",
+            "name": "Wood",
             "hex": "#b9957d"
           },
           {
-            "name": "branco",
+            "name": "White",
             "hex": "#ffffff"
           }
         ],
@@ -1739,20 +1719,20 @@
       {
         "id": 53,
         "sku": "327761",
-        "title": "Escrivaninha Mendes 2 GV Branca",
-        "category": "Mesas",
-        "tags": ["Mesas", "Escritório", "Estudo"],
+        "title": "Mendes",
+        "category": "Desk",
+        "tags": ["Desk", "Office", "Study"],
         "normalPrice": 399.99,
         "salePrice": 224.96,
         "discountPercentage": 0.43,
         "new": true,
         "description": {
-          "short": "Escrivaninha Mendes",
-          "long": "uma boa escrivaninha é essencial para quem estuda ou trabalha em casa. Com tampo espaçoso para receber um notebook, caderno, luminária e outros materiais essenciais à rotina, o modelo Mendes também tem gavetas para aqueles objetos menores e que podem se perder caso fiquem soltos. Enquanto toda essa funcionalidade deixa o dia a dia mais prático, o design deixa mais bonito: cor clássica, estrutura simples e detalhes que fazem a decoração ficar ainda mais especial e de bom gosto, do jeitinho que você merece."
+          "short": "Desk with 2 drawers",
+          "long": "With ample space to accommodate a laptop, notebook, lamp, and other essential materials for your routine, the Mendes model also features drawers for those smaller items that might get lost if left loose. While all this functionality makes day-to-day life more practical, the design enhances aesthetics: a classic color, simple structure, and details that make the decor even more special and tasteful, just the way you deserve."
         },
         "colors": [
           {
-            "name": "branco",
+            "name": "White",
             "hex": "#ffffff"
           }
         ],
@@ -1771,20 +1751,20 @@
       {
         "id": 54,
         "sku": "1007565",
-        "title": "Escrivaninha Studio Carvalho e Preta 180 cm",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Studio II",
+        "category": "Desk",
+        "tags": ["Office", "Desk"],
         "normalPrice": 665.99,
         "salePrice": 357.24,
         "discountPercentage": 0.46,
         "new": true,
         "description": {
-          "short": "Escrivaninha Studio Carvalho e Preta 180 cm",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "180 cm desk",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
-            "name": "Madeira",
+            "name": "Wood",
             "hex": "#654321"
           }
         ],
@@ -1809,20 +1789,20 @@
       {
         "id": 55,
         "sku": "1136819",
-        "title": "Escrivaninha com Estante Studio Mel e Branca 150x75 cm",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Studio V",
+        "category": "Desk",
+        "tags": ["Office desk", "Office", "Desk"],
         "normalPrice": 689.99,
         "salePrice": 343.74,
         "discountPercentage": 0.5,
         "new": true,
         "description": {
-          "short": "Escrivaninha com Estante Studio Mel e Branca 150x75 cm",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Desk with shelf, 150cm x 75cm",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
-            "name": "Mel e Branca",
+            "name": "Honey",
             "hex": "#D2B48C"
           }
         ],
@@ -1847,16 +1827,16 @@
       {
         "id": 56,
         "sku": "1034291",
-        "title": "Escrivaninha Old 2 GV Nature",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Old Nature",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk"],
         "normalPrice": 759.99,
         "salePrice": 467.96,
         "discountPercentage": 0.38,
         "new": true,
         "description": {
-          "short": "Escrivaninha Old 2 GV Nature",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Office desk with two drawers",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
@@ -1885,24 +1865,24 @@
       {
         "id": 57,
         "sku": "1066131",
-        "title": "Escrivaninha Wood 1 GV Branca e Marrom",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Wood",
+        "category": "Desk",
+        "tags": ["Desk", "Office desk"],
         "normalPrice": 659.99,
         "salePrice": 386.96,
         "discountPercentage": 0.41,
         "new": true,
         "description": {
-          "short": "Escrivaninha Wood 1 GV Branca e Marrom",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Office desk with one drawer",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
-            "name": "Branca e Marrom",
+            "name": "White",
             "hex": "#FFFFFF"
           },
           {
-            "name": "Marrom",
+            "name": "Brown",
             "hex": "#8B4513"
           }
         ],
@@ -1927,16 +1907,16 @@
       {
         "id": 58,
         "sku": "1034292",
-        "title": "Escrivaninha Califórnia Nature",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Califórnia",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk"],
         "normalPrice": 609.99,
         "salePrice": 341.96,
         "discountPercentage": 0.43,
         "new": true,
         "description": {
-          "short": "Escrivaninha Califórnia Nature",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Office desk",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
@@ -1965,24 +1945,24 @@
       {
         "id": 59,
         "sku": "1134543",
-        "title": "Escrivaninha Prism 1 PT 1 GV Preta e Cinamomo",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Prism",
+        "category": "Desk",
+        "tags": ["Office desk", "Desk"],
         "normalPrice": 959.99,
         "salePrice": 562.37,
         "discountPercentage": 0.41,
         "new": true,
         "description": {
-          "short": "Escrivaninha Prism 1 PT 1 GV Preta e Cinamomo",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Office desk with one drawer and one door",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
-            "name": "Preta e Cinamomo",
+            "name": "Black",
             "hex": "#000000"
           },
           {
-            "name": "Cinamomo",
+            "name": "Cinnamon",
             "hex": "#8B4513"
           }
         ],
@@ -2007,24 +1987,24 @@
       {
         "id": 60,
         "sku": "198569",
-        "title": "Escrivaninha Mega Office Branca e Amêndoa",
-        "category": "Escrivaninhas e Mesas para Computador",
-        "tags": ["Escritório", "Móveis"],
+        "title": "Mega Office",
+        "category": "Desk",
+        "tags": ["Office", "Office desk", "Desk"],
         "normalPrice": 687.99,
         "salePrice": 442.74,
         "discountPercentage": 0.35,
         "new": true,
         "description": {
-          "short": "Escrivaninha Mega Office Branca e Amêndoa",
-          "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
+          "short": "Office desk",
+          "long": "The color shade may vary according to the manufacturer's batch and/or your monitor settings. Images are for illustrative purposes only. Cashback: Within up to 7 days, you will receive a bonus via SMS to be used on your next purchase on Mobly website."
         },
         "colors": [
           {
-            "name": "Branca",
+            "name": "White",
             "hex": "#FFFFFF"
           },
           {
-            "name": "Amêndoa",
+            "name": "Almond",
             "hex": "#D2B48C"
           }
         ],
