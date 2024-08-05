@@ -32,18 +32,16 @@ const Checkout = () => {
     <div>
       <Header />
       <TopBanner title='Checkout' section='Checkout' />
-      <div className='w-full h-[1592px] flex justify-center items-center font-poppins'>
-        <div className='w-[1242px] h-[1114px] flex'>
-          <div className='w-[608px] h-full'>
-            <div className='flex flex-col justify-center items-center'>
-              <CheckoutForm />
-            </div>
+      <div className='w-full flex flex-col md:flex-row md:h-[1292px] justify-center items-center font-poppins'>
+        <div className='w-full md:w-[1242px] flex flex-col md:flex-row'>
+          <div className='w-full md:w-[608px] h-full flex justify-center items-center'>
+            <CheckoutForm />
           </div>
 
-          <div className='w-[608px] h-[789px] mt-2 p-4'>
-            <div className='p-8 flex justify-between border-b border-lighterGray'>
+          <div className='w-full md:w-[608px] h-auto md:h-[789px] mt-2 md:mt-4 p-4'>
+            <div className='p-8 flex flex-row md:flex-row justify-between border-b border-lighterGray'>
               <div>
-                <h2 className='text-2xl font-bold mb-4'>Product</h2>
+                <h2 className='text-xl md:text-2xl font-bold mb-4'>Product</h2>
                 {cartItems.map((item) => (
                   <div key={item.id} className='mb-4 flex'>
                     <p className='font-medium text-lightGray text-base'>{item.title}</p>
@@ -53,11 +51,11 @@ const Checkout = () => {
                 <p className='font-semibold mt-4'>Total:</p>
               </div>
               <div className='text-right'>
-                <h2 className='text-2xl font-bold mb-2'>Subtotal</h2>
+                <h2 className='text-xl md:text-2xl font-bold mb-2'>Subtotal</h2>
                 {cartItems.map((item) => (
                   <p key={item.id} className='mb-4'>Rp {calculateSubtotal(item.salePrice, item.quantity).toFixed(2)}</p>
                 ))}
-                <p className='mt-4 text-golden text-2xl font-semibold'>Rp {total.toFixed(2)}</p>
+                <p className='mt-4 text-golden text-lg md:text-2xl font-semibold'>Rp {total.toFixed(2)}</p>
               </div>
             </div>
 
@@ -107,7 +105,7 @@ const Checkout = () => {
               </p>
               <div className='flex justify-center'>
                 <button 
-                  className='mt-4 font-semibold border border-black w-2/4 h-[45px] rounded'
+                  className='mt-4 font-semibold border border-black w-full md:w-2/4 h-[45px] rounded'
                   onClick={handlePlaceOrder}
                 >
                   Place order
@@ -123,4 +121,4 @@ const Checkout = () => {
   )
 }
 
-export default Checkout;
+export default Checkout
