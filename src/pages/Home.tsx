@@ -109,7 +109,7 @@ const Home: React.FC = () => {
                     <img
                         src={furniture}
                         alt="Furniture"
-                        className='w-full max-w-[600px] mt-4 mb-12'
+                        className='w-full mt-4 mb-12'
                     />
                 </div>
             </main>
