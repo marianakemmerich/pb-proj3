@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import logo from '../assets/logo.svg'
 import userIcon from '../assets/user-icon.svg'
 import cartIcon from '../assets/cart-icon.svg'
+import LogoutButton from './LogoutButton'
 
 const Header = () => {
   return (
@@ -19,6 +20,7 @@ const Header = () => {
         <div className='flex space-x-4 lg:space-x-8'>
           <Link to="/login"><img src={userIcon} className='w-[28px]' alt="User" /></Link>
           <Link to="/cart"><img src={cartIcon} className='w-[28px]' alt="Cart" /></Link>
+          <LogoutButton />
         </div>
       </div>
     </div>
